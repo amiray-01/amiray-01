@@ -49,20 +49,20 @@ I’m passionate about **data exploration, analysis, and building reliable data-
 ## 🚀 Featured Projects
 
 ### [value-prediction](https://github.com/amiray-01/value-prediction)
-A data science project that analyzes and predicts football player market values using Python’s data and machine learning libraries (**pandas, NumPy, scikit-learn**, etc.). The workflow includes **data loading, exploratory data analysis, feature engineering, and model training**, all demonstrated in a single **Jupyter notebook** for reproducibility.
+Football player market value prediction using Python and machine learning.
 
 **Tech stack:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
 
 ---
 
 ### [NYC-CitibikeAnalysis](https://github.com/amiray-01/NYC-CitibikeAnalysis)
-A data engineering and analytics project that processes and analyzes **NYC CitiBike data (2014–2023)** using **Python and PySpark**. It automates **data ingestion, cleaning, and conversion to optimized Parquet format**, and provides insights through **interactive visualizations**.
+NYC CitiBike data processing and analysis pipeline (2014–2023) with PySpark.
 
 **Tech stack:** Python, PySpark, Parquet, Data Processing, Visualization
 
 ---
 
 ### [QueFaireAParisDB](https://github.com/amiray-01/QueFaireAParisDB)
-A relational database design and implementation project built on the **“Que faire à Paris ?” open dataset**. It includes **functional dependency analysis, schema normalization, SQL table creation (with constraints and indexing), automated CSV import, anomaly detection queries, and parameterized retrieval scripts**.
+Relational database design and SQL implementation for the “Que faire à Paris ?” open dataset.
 
-**Tech stack:** SQL, Relational Modeling, Normalization, CSV Import, Database Design
+**Tech stack:** SQL, Relational Modeling, Normalization, Database Design
